@@ -1,5 +1,6 @@
 # Scrap_TGDD_web_-_analysis
 📊 Smartphone Market Trend Analysis
+
 🛠 Tools:
 - Python (Selenium, Pandas)
 - Power BI
